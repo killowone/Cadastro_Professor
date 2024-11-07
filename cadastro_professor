@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 255, 255);
+    
+}
+h1{
+    color: rgb(5, 5, 5);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.menu{
+    color: rgb(10, 10, 10);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+p{
+    color: rgb(0, 0, 0);
+}
+fieldset{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
